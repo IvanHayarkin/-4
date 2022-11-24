@@ -1,0 +1,15 @@
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.csproj.AssemblyReference.cache
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.AssemblyInfoInputs.cache
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.AssemblyInfo.cs
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.csproj.CoreCompileInputs.cache
+D:\github\Семенар4\bin\Debug\net7.0\Семенар4.exe
+D:\github\Семенар4\bin\Debug\net7.0\Семенар4.deps.json
+D:\github\Семенар4\bin\Debug\net7.0\Семенар4.runtimeconfig.json
+D:\github\Семенар4\bin\Debug\net7.0\Семенар4.dll
+D:\github\Семенар4\bin\Debug\net7.0\Семенар4.pdb
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.dll
+D:\github\Семенар4\obj\Debug\net7.0\refint\Семенар4.dll
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.pdb
+D:\github\Семенар4\obj\Debug\net7.0\Семенар4.genruntimeconfig.cache
+D:\github\Семенар4\obj\Debug\net7.0\ref\Семенар4.dll
